@@ -58,18 +58,18 @@ var (
 	EnableFixedHeaders        = false
 	EnableWebSocket           = false  // 默认启用WebSocket
 	EnableGRPC                = false
-	EnableHTTP3               = true
+	EnableHTTP3               = false
 	EnableRandomPath          = true
 	EnableRandomQueryParams   = true  // 默认启用随机参数
-	UseRandomMethod           = false  // 默认启用随机方法
+	UseRandomMethod           = true  // 默认启用随机方法
 	EnableMultipartFormData   = true  // 默认启用多部分数据
 	EnableChunkedTransfer     = true  // 默认启用分块传输
 
 	IgnoreSSLErrors                 = true
-	HTTPVersions                    = "h3"
+	HTTPVersions                    = "h2"
 	MinTLSVersion                   = tls.VersionTLS10
 	MaxTLSVersion                   = tls.VersionTLS13
-	ForceNewTLSSessionPerConnection = true
+	ForceNewTLSSessionPerConnection = false
 	EnableSharedTLSSessionCache     = false
 
 	EnableRateLimit       = false
