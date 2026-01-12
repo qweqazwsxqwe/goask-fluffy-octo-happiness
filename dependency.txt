@@ -1,1 +1,1 @@
-https://api.shiguangshufang.com/api/sgsf-user-center/auth/mobile-check?userName=1
+https://www.shiguangshufang.com/
