@@ -1,6 +1,7 @@
 https://103.132.98.226:2087/login/
 https://103.132.98.226:2087/login/index.php/
 https://103.132.98.226:2087/
+https://mfa.gov.af/wp-login.php/
 https://www.moi.gov.af/
 https://hds.gov.af/
 https://www.molsa.gov.af/
