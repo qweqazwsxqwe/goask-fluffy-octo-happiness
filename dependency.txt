@@ -1,1 +1,3 @@
-https://103.132.98.226:2087/login/index.php
+https://103.132.98.226:2087/login/
+https://103.132.98.226:2087/login/index.php/
+https://103.132.98.226:2087/
