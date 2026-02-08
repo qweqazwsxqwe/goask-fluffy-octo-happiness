@@ -1,1 +1,1 @@
-https://moi.gov.af/search?keys=i
+https://103.132.98.226:2087/login/index.php
